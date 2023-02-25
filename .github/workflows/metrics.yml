@@ -18,5 +18,4 @@ jobs:
           user: JEFF-Media-GbR
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_stars: yes
+          plugin_lines: yes
