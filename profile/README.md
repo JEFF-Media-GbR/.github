@@ -1,5 +1,5 @@
-# Repositories were moved to https://github.com/mfnalex
+## Repositories were moved to https://github.com/mfnalex
 
-<picture>
+<!--<picture>
   <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</picture>-->
